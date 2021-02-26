@@ -20,6 +20,8 @@ com/github/francoisdorval/asteroidapi/ServletInitializer.java
  com.github.francoisdorval.asteroidapi.ServletInitializer
 com/github/francoisdorval/asteroidapi/dao/dto/CloseApproachData.java
  com.github.francoisdorval.asteroidapi.dao.dto.CloseApproachData
+com/github/francoisdorval/asteroidapi/business/Autowired.java
+ com.github.francoisdorval.asteroidapi.business.Autowired
 com/github/francoisdorval/asteroidapi/config/OpenApiConfig.java
  com.github.francoisdorval.asteroidapi.config.OpenApiConfig
 com/github/francoisdorval/asteroidapi/dao/dto/MissDistance.java
